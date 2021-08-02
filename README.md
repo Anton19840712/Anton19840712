@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anton19840712
-- 👀 I’m interested in C#, Golang, Python, JavaScript, ASP.NET Core, 
+- 👀 I’m interested in C#, Golang, Python, JavaScript, ASP.NET Core.
 - 🌱 I’m currently learning ASP.NET Core
 - 💞️ I’m looking to collaborate on ASP.NET Core
 - 📫 How to reach me anton.gridushko@gmail.com, +375444824425
